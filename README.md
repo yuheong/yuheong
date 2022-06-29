@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-##### I'm Yuhe, a software engineer from Singapore.
+#### I'm Yuhe, a software engineer from Singapore.
 
 - 👨‍💻 Loves exploring new technologies and envisioning how they can be used to improve our world
 - 🎓 Graduated from the National University of Singapore
